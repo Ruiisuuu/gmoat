@@ -1,5 +1,0 @@
-#weights
-/darkflow/bin/
-
-#builds
-/darkflow/build/
